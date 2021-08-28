@@ -30,7 +30,7 @@ body {
 }
 .text{
    min-height: 100vh;
-    width: 90%;
+    width: 100%;
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(logo.jpg);
     background-position: center;
     background-size:cover ;
@@ -57,7 +57,7 @@ body {
 }
 .about h1{
     font-weight: 600;
-    font-size: 45px;
+    font-size: 40px;
     font-family: serif;
     text-align: left;
     border-left: 9px solid #fff;
